@@ -1,14 +1,14 @@
 
-.navbar-inverse {
-    background-color: 	#ADD8E6;
+.navbar-inverse{
+    background:#ADD8E6;
 }
 
 .navbar-header{
 background:	#ADD8E6;
+
 }
 .navbar-nav {
-    margin: 0px -15px;
-    
+    margin: 0px -15px; 
 background:#fff;
 color:black;
 }
@@ -24,8 +24,8 @@ line-height:25px;
 div .name{
 margin: 6% 6% 6% 6%;
 background:#FFE4B5;
-text-align:left;
-padding:20px 18px 44px 20px;
+text-align:justify;
+padding:20px 25px 44px 20px;
 margin-bottom: 45px;
 }
 .name h3{
@@ -50,12 +50,9 @@ color:black;
     background-color: #000;
 	padding:2px;
 }
-.navbar-inverse {
-    background-color: #b3b3b3;
-	}
-	
-	h3,p{
-	color:#000;}
+h3,p{
+	color:#000;
+}
 html {
   scroll-behavior: smooth;
 }
