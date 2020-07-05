@@ -1,14 +1,14 @@
 
 navbar-inverse {
-    background-color: #b3b3b3;
+    background-color: 	#ADD8E6;
 }
 
 .navbar-header{
-background:#b3b3b3;
+background:	#ADD8E6;
 }
 .navbar-nav {
     margin: 0px -15px;
-    text-align: center;
+    
 background:#fff;
 color:black;
 }
@@ -21,20 +21,25 @@ font-weight:bold;
 font-size:22px;
 line-height:25px;
 }
-.text-center :not(h2){
-margin: 0px 6% 6% 6%;
-background:#b3b3b3;
+div .name{
+margin: 6% 6% 6% 6%;
+background:#FFE4B5;
 text-align:left;
 padding:20px 18px 44px 20px;
-margin-bottom: -39px;
+margin-bottom: 45px;
 }
-.text-center h3{
+.name h3{
 text-align:center;
 font-weight:bold;
 }
+
 .jumbotron{
 background:#fff;
 margin-top:-56px;
+
+}
+.jumbotron p{
+	font-weight:bold;
 }
 h2 {
     font-weight:bold;
